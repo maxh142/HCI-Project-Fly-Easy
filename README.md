@@ -1,4 +1,4 @@
-# Fly Easy
+# EasyFly
 
 ## Team Members
 - Maxime Hildebrand
