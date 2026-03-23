@@ -49,8 +49,14 @@ Alex, an FSU student, is booking a flight home for spring break on his phone.
 6. Enters payment info  
 7. Confirms booking
 
-## Images
+## Storyboard Images
 
+![Scene 1](storyboard1.jpg)
+![Scene 2](storyboard2.jpg)
+![Scene 3](storyboard3.jpg)
+![Scene 4](storyboard4.jpg)
+![Scene 5](storyboard5.jpg)
+![Scene 6](storyboard6.jpg)
 
 ---
 
